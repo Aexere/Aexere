@@ -3,7 +3,7 @@
 <img src="https://media4.giphy.com/media/JR7iS0j2YwfW9mopu3/giphy.gif?cid=ecf05e47fk6n71mb83xyushrr8qiqv2k9wyzx7v3dztvnzen&rid=giphy.gif&ct=s" width="200">
 
 
-<p><em>Software Engineering Student at <a href="https://www.napier.ac.uk">Edinburgh Napier University</a><img src="https://media0.giphy.com/media/XuBtcsV266vepmoEYG/200w.webp?cid=ecf05e4770f7i9rew7gegwlr1g9uqw87fh5l3lfokugdz95w&rid=200w.webp&ct=s" width="30">
+<p><em>Software Engineering Student at <a href="https://www.napier.ac.uk/courses/bengbeng-hons-software-engineering-undergraduate-fulltime">Edinburgh Napier University</a><img src="https://media0.giphy.com/media/XuBtcsV266vepmoEYG/200w.webp?cid=ecf05e4770f7i9rew7gegwlr1g9uqw87fh5l3lfokugdz95w&rid=200w.webp&ct=s" width="30">
 </em></p>
 
 [![Linkedin: andrejlegen](https://img.shields.io/badge/-andrejlegen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejlegen/)](https://www.linkedin.com/in/andrejlegen/)
