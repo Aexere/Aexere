@@ -13,7 +13,6 @@
 
 ```javascript
 const andrej = {
-  pronouns: "he" | "him",
   nationality: "Slovak",
   code: [Java, C#, C/C++, Swift],
   tools: [Docker, Android Studio, Xcode],
